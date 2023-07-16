@@ -1,5 +1,4 @@
-# ACC2023
-H2 suboptimal containment control of multi-agent systems
+#H2 suboptimal containment control of multi-agent systems ACC2023
 This responsory includes the following files:
 1. The paper "H2 suboptimal containment control of multi-agent systems"
 2. Matlab Code for Simulation
