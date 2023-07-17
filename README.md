@@ -1,4 +1,4 @@
-# H2 suboptimal containment control of multi-agent systems in 2023 American Control Conference (ACC 2023)
+# H2 suboptimal containment control of multi-agent systems in 2023 American Control Conference
 
 This responsory includes the following files:
 1. The paper "H2 suboptimal containment control of multi-agent systems"
@@ -7,8 +7,7 @@ This responsory includes the following files:
 
 ## Abstract: 
 
-This paper deals with the distributed H2 subopti-
-mal containment control problem by static state feedback for
+This paper deals with the distributed H2 suboptimal containment control problem by static state feedback for
 linear multi-agent systems. Given multiple autonomous leaders,
 a number of followers, and an H2 cost functional, we aim to
 design a distributed protocol that achieves containment control
